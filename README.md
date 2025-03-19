@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Sergei Shekshuev</h1>
-<h3 align="center">Web Developer | Elixir, JavaScript, and Go Enthusiast | TeamLead</h3>
+<h3 align="center">Web Developer | Elixir and JS/TS Enthusiast | TeamLead</h3>
 
 <div align="justify">
   <p>
@@ -39,7 +39,6 @@
   ### Backend
   [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
   [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-  [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
   [![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
   [![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black)](https://www.phoenixframework.org/)
   
@@ -53,7 +52,7 @@
 
 <div align="justify">
   <p>
-    I specialize in building applications that combine robust functionality with intuitive user experiences. Whether it’s a fast API in Go or a real-time chat application in Elixir, I focus on delivering top-quality code and clean architecture.
+    I specialize in building applications that combine robust functionality with intuitive user experiences. Whether it’s a fast API in NodeJS or a real-time chat application in Elixir, I focus on delivering top-quality code and clean architecture.
   </p>
   <p>
     My current interests revolve around distributed systems, database optimizations, and exploring functional programming paradigms. I also enjoy contributing to open-source projects and sharing my knowledge through blogs and talks.
