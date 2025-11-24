@@ -1,24 +1,26 @@
-<h1 align="center">👨‍💻 Sergei Shekshuev</h1>
-<h3 align="center">Web Developer | Elixir and JS/TS Enthusiast | TeamLead</h3>
+<h1 align="center">Sergei Shekshuev</h1>
+<h3 align="center">Full-Stack Engineer · React / Vue / Node.js / Elixir · FinTech · Data · Mentor & Lecturer</h3>
 
 <div align="justify">
-  <p>
-    Hi there! I'm Sergei, a full-stack web developer with a strong focus on building scalable, efficient, and user-friendly applications. My journey in development started with a curiosity for how websites work and has grown into a full-blown passion for coding and problem-solving. I thrive on exploring new technologies and leveraging them to craft robust solutions.
-  </p>
+    Full-stack engineer specializing in reliable, well-structured systems and data-driven architectures.
+Working with Elixir, Node.js and Postgres to build scalable, observable and maintainable services.
+Lecturer in databases; exploring distributed systems, high-load patterns and system design.
 </div>
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <div align="center">
   <p>Feel free to reach out to discuss projects, collaborations, or just chat about tech!</p>
   
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sergeishekshuev)
+  [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/shekshuev.bsky.social)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekshuev/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergei.shekshuev@gmail.com)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GrantUS)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@frombadge)
 </div>
 
-<h2 align="center">💻 Tech Stacks</h2>
+<h2 align="center">Tech Stacks</h2>
 
 <div align="center">
   <p>
@@ -33,8 +35,6 @@
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
   [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
   [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
-  [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-  [![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)](https://nuxt.com/)
 
   ### Backend
   [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -48,21 +48,22 @@
   [![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)](https://clickhouse.com/)
 </div>
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div align="justify">
   <p>
-    I specialize in building applications that combine robust functionality with intuitive user experiences. Whether it’s a fast API in NodeJS or a real-time chat application in Elixir, I focus on delivering top-quality code and clean architecture.
+    I specialize in building reliable backend systems with clear architecture and strong data foundations.
+Most of my experience is in fintech, working with Elixir, Node.js and Postgres to design services that scale and stay maintainable under real load.
   </p>
   <p>
-    My current interests revolve around distributed systems, database optimizations, and exploring functional programming paradigms. I also enjoy contributing to open-source projects and sharing my knowledge through blogs and talks.
+    I’m interested in distributed systems, high-load patterns, database internals and functional programming. I write about engineering, architecture and real-world lessons on Medium.
   </p>
   <p>
-    In addition to being a developer, I am also a university lecturer, teaching databases. Sharing knowledge and guiding students in understanding the intricacies of database systems is something I find incredibly fulfilling and inspiring.
+    Alongside development, I teach databases at a university. Guiding students through real-world database concepts and helping them build intuition around data systems is something I value a lot.
   </p>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <p>Check out my GitHub activity to see what I’ve been working on recently.</p>
